@@ -302,7 +302,8 @@ input[type=submit] {
   }
 
   .work {
-    width: 46.5%;
+    width: 46%;
+    
   }
 }
 
@@ -352,5 +353,9 @@ input[type=submit] {
   .sidebar {
     max-width: 610px;
     
+  }
+
+  .work {
+    width: 100%;
   }
 } 
